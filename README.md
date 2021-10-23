@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Azaz Hassan
+- 👀 I’m interested in Artificial Intelligence, smart systems and innovative development.
+- 🌱 I’m currently working in Python Django along with Django Rest Framework and React.
+- 📫 Contact me on azazhassan75@gmail.com
